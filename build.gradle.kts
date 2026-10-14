@@ -19,7 +19,7 @@ kotlin {
 }
 
 application {
-    mainClass.set("MainKt")
+    mainClass.set("task2.Task2Kt")
 }
 
 tasks.test {
